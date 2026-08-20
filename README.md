@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-I'm a **Backend & Full Stack Developer** who loves building scalable, decoupled systems — from national-scale registration portals and asynchronous file-processing pipelines to molecular gastronomy apps 🍽️⚙️. I adapt quickly across domains and enjoy crafting elegant solutions to real-world problems.
+I'm a **Backend & Full Stack Developer** who loves building scalable, decoupled systems — from national-scale registration portals and asynchronous file-processing pipelines to molecular gastronomy apps . I adapt quickly across domains and enjoy crafting elegant solutions to real-world problems.
 
 <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px"/>
 
@@ -21,7 +21,6 @@ I'm a **Backend & Full Stack Developer** who loves building scalable, decoupled 
 -  &nbsp; Solved **300+ DSA problems** on LeetCode using Java
 -  &nbsp; Completed the **Tata GenAI Powered Data Analytics Job Simulation**
 -  &nbsp; **AWS Certified Cloud Practitioner**
--  &nbsp; My projects are available on [GitHub](https://github.com/Rohanpandey914064)
 -  &nbsp; Ask me about anything in **Backend, Full Stack, or Cloud** — happy to help!
 -  &nbsp; Reach me at **rohanpandey20051119@gmail.com**
 -  &nbsp; Based in **Gurugram, India**

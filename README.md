@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Rohan%20Pandey&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Full%20Stack%20Developer&descAlignY=58&descColor=8b949e&descSize=22" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,30:4776E6,60:00d2ff,100:0d1117&height=220&section=header&text=Rohan%20Pandey&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full%20Stack%20Developer&descAlignY=58&descColor=c9d1d9&descSize=22" />
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <a href="https://git.io/typing-svg">
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<!-- ═══════════════ PROFILE VIEWS & FOLLOWERS ═══════════════ -->
+<!-- ═══════════════ PROFILE VIEWS &amp; FOLLOWERS ═══════════════ -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Rohanpandey914064&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views"/>
   &nbsp;
@@ -139,7 +139,7 @@ motto       : "Craft elegant solutions. Build systems that last."
         &nbsp;&nbsp;<b>June 2026 – Present</b>
       </p>
       <ul>
-        <li>🔧 Built backend REST API & MongoDB schemas for a <b>National Olympiad registration & admin portal</b>, compound indexes keeping query latency <b>under 5ms</b>, benchmarked for <b>1,00,000+ members</b></li>
+        <li>🔧 Built backend REST API &amp; MongoDB schemas for a <b>National Olympiad registration &amp; admin portal</b>, compound indexes keeping query latency <b>under 5ms</b>, benchmarked for <b>1,00,000+ members</b></li>
         <li>💳 Integrated <b>Razorpay payments</b> with signature verification, automated digital ID card/receipt generation, Cloudinary CDN for zero-footprint media storage</li>
         <li>🔒 Secured APIs with <b>JWT auth, Helmet, CORS whitelisting, rate limiting</b>; proposed Redis/sharding roadmap to scale to <b>10,00,000+ members</b></li>
       </ul>
@@ -195,9 +195,9 @@ motto       : "Craft elegant solutions. Build systems that last."
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohanpandey914064&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohanpandey914064&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=1800" alt="GitHub Stats"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanpandey914064&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanpandey914064&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -211,7 +211,7 @@ motto       : "Craft elegant solutions. Build systems that last."
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Rohanpandey914064&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohanpandey914064&theme=radical&no-frame=false&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
 </div>
 
 ---

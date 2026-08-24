@@ -1,10 +1,6 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://raw.githubusercontent.com/Rohanpandey914064/Rohanpandey914064/main/header.svg" alt="Rohan Pandey - Backend & Full Stack Developer"/>
-
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Backend+%26+Full+Stack+Developer;Building+Scalable+Distributed+Systems;300%2B+DSA+Problems+on+LeetCode;AWS+Certified+Cloud+Practitioner;SDE+Intern+%40+Bharat+Seva+Foundation;Open+to+Collaboration" alt="Typing SVG" />
 </a>
 

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,30:4776E6,60:00d2ff,100:0d1117&height=220&section=header&text=Rohan%20Pandey&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full%20Stack%20Developer&descAlignY=58&descColor=c9d1d9&descSize=22" />
+<img width="100%" src="https://raw.githubusercontent.com/Rohanpandey914064/Rohanpandey914064/main/header.svg" alt="Rohan Pandey - Backend & Full Stack Developer"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -309,6 +309,6 @@ motto       : "Craft elegant solutions. Build systems that last."
 <br/>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:4776E6&height=130&section=footer"/>
 
 </div>

@@ -198,27 +198,7 @@ motto       : "Craft elegant solutions. Build systems that last."
 
 <br/>
 
-<div align="center">
-  <img width="68%" src="https://streak-stats.demolab.com/?user=Rohanpandey914064&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak"/>
-</div>
 
----
-
-## ![trophies](https://img.shields.io/badge/-GitHub%20Trophies-58a6ff?style=flat-square&logoColor=white)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohanpandey914064&theme=radical&no-frame=false&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
-</div>
-
----
-
-## ![graph](https://img.shields.io/badge/-Contribution%20Graph-58a6ff?style=flat-square&logoColor=white)
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohanpandey914064&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
 
 ## ![snake](https://img.shields.io/badge/-Contribution%20Snake-58a6ff?style=flat-square&logoColor=white)
 

@@ -188,15 +188,7 @@ motto       : "Craft elegant solutions. Build systems that last."
 
 ---
 
-## ![stats](https://img.shields.io/badge/-GitHub%20Stats-58a6ff?style=flat-square&logoColor=white)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohanpandey914064&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=1800" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanpandey914064&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages"/>
-</div>
-
-<br/>
 
 
 

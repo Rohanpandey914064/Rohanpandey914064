@@ -21,7 +21,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
 <!-- PROFILE VIEWS & FOLLOWERS -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Rohanpandey914064&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views"/>

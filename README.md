@@ -56,7 +56,7 @@ motto       : "Craft elegant solutions. Build systems that last."
 
 - ▸ &nbsp; **B.Tech CSE** at KIET Ghaziabad *(CGPA: 8.41)*
 - ▸ &nbsp; SDE Intern at **Bharat Seva Foundation (BSF India)** — June 2026 – Present
-- ▸ &nbsp; Solved **300+ DSA problems** on LeetCode using Java
+- ▸ &nbsp; Solved **350+ DSA problems** on LeetCode using Java
 - ▸ &nbsp; **AWS Certified Cloud Practitioner** *(2026)*
 - ▸ &nbsp; Completed **Tata GenAI Data Analytics** Simulation *(Forage)*
 - ▸ &nbsp; Passionate about **Backend, Full Stack & Cloud**
